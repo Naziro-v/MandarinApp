@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
                 this.add(
                     Page(
                         "Hi",
-                        "Mirkamol"
+                        "Elmurod"
                     )
                 )
             }
